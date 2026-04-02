@@ -349,7 +349,7 @@ The rank tracker is pre-configured for [SERPRobot](https://www.serprobot.com/). 
 
 ```env
 RANK_TRACKER_API_KEY=your_serprobot_api_key_here
-RANK_TRACKER_API_BASE_URL=https://www.serprobot.com/api
+RANK_TRACKER_API_BASE_URL=[https://www.serprobot.com/api](https://api.serprobot.com/v1/api.php)
 ```
 
 5. Restart Claude Desktop
