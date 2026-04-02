@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+
+# Environment variables (NEVER commit your real .env file)
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+*.log
+npm-debug.log*

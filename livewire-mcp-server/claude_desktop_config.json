@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "livewire-seo": {
+      "command": "node",
+      "args": [
+        "/FULL/PATH/TO/livewire-mcp-server/src/server.js"
+      ],
+      "env": {}
+    }
+  }
+}

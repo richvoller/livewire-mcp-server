@@ -1,0 +1,24 @@
+{
+  "name": "livewire-mcp-server",
+  "version": "1.0.0",
+  "description": "Livewire MCP Server Starter — Connect your AI assistants to your proprietary SEO data via the Model Context Protocol.",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "keywords": [
+    "mcp",
+    "seo",
+    "claude",
+    "model-context-protocol",
+    "google-search-console",
+    "google-analytics",
+    "pagespeed"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.12.1",
+    "axios": "^1.7.9",
+    "dotenv": "^16.4.7"
+  }
+}
